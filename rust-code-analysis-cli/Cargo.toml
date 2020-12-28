@@ -10,7 +10,7 @@ license = "MPL-2.0"
 [dependencies]
 actix-rt = "^1.0"
 actix-web = "^2.0"
-bytes = "^0.5"
+bytes = "^1.0"
 clap = "^2.33"
 crossbeam = "^0.7"
 futures = "^0.3"
