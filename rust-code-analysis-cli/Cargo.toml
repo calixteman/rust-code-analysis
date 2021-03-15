@@ -26,4 +26,4 @@ toml = "^0.5"
 walkdir = "^2.2"
 
 [dev-dependencies]
-pretty_assertions = "^0.6"
+pretty_assertions = "^0.7"

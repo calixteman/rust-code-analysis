@@ -29,7 +29,7 @@ termcolor = "^1.0"
 tree-sitter = "^0.16"
 
 [dev-dependencies]
-pretty_assertions = "^0.6"
+pretty_assertions = "^0.7"
 
 [workspace]
 members = ["rust-code-analysis-cli"]
